@@ -25,4 +25,4 @@
         https://www.teemo.link
         
     免责赞助（支付宝扫码）
-    ![Image text](https://www.v2ex.com/i/7216jJBX.png)
+   ![Image text](https://i.v2ex.co/7216jJBX.png)
